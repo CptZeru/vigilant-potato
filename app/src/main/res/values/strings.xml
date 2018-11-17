@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cobafirebase</string>
+    <array name="ratings">
+        <item>1 Star</item>
+        <item>2 Stars</item>
+        <item>3 Stars</item>
+        <item>4 Stars</item>
+        <item>5 Stars</item>
+    </array>
+</resources>
